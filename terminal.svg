@@ -26,22 +26,21 @@
     <text y="156" class="o">I run my own too — forge, CI, secrets, agents.</text>
     <text y="178" class="a">Own your stack, or it owns you.</text>
     <text y="220"><tspan class="p">matthieu@evmd</tspan><tspan class="h">:~$ </tspan><tspan class="c">~/bin/stack</tspan></text>
-    <line x1="0.0" y1="226" x2="516.8" y2="226" stroke="#30363d"/>
-    <line x1="0.0" y1="252" x2="516.8" y2="252" stroke="#30363d"/>
-    <line x1="0.0" y1="384" x2="516.8" y2="384" stroke="#30363d"/>
+    <line x1="0.0" y1="226" x2="383.2" y2="226" stroke="#30363d"/>
+    <line x1="0.0" y1="252" x2="383.2" y2="252" stroke="#30363d"/>
+    <line x1="0.0" y1="384" x2="383.2" y2="384" stroke="#30363d"/>
     <line x1="0.0" y1="226" x2="0.0" y2="384" stroke="#30363d"/>
     <line x1="100.0" y1="226" x2="100.0" y2="384" stroke="#30363d"/>
-    <line x1="183.2" y1="226" x2="183.2" y2="384" stroke="#30363d"/>
+    <line x1="200.0" y1="226" x2="200.0" y2="384" stroke="#30363d"/>
     <line x1="283.2" y1="226" x2="283.2" y2="384" stroke="#30363d"/>
-    <line x1="416.8" y1="226" x2="416.8" y2="384" stroke="#30363d"/>
-    <line x1="516.8" y1="226" x2="516.8" y2="384" stroke="#30363d"/>
-    <text x="8.0" y="244" class="d">languages</text><text x="108.0" y="244" class="d">frontend</text><text x="191.2" y="244" class="d">backend</text><text x="291.2" y="244" class="d">chain</text><text x="424.8" y="244" class="d">ops</text>
-    <text x="8.0" y="266" class="o">typescript</text><text x="108.0" y="266" class="o">react</text><text x="191.2" y="266" class="o">node.js</text><text x="291.2" y="266" class="o">evm</text><text x="424.8" y="266" class="o">docker</text>
-    <text x="8.0" y="288" class="o">rust</text><text x="108.0" y="288" class="o">next.js</text><text x="191.2" y="288" class="o">elysiajs</text><text x="291.2" y="288" class="o">indexing</text><text x="424.8" y="288" class="o">kubernetes</text>
-    <text x="8.0" y="310" class="o">solidity</text><text x="108.0" y="310" class="o"></text><text x="191.2" y="310" class="o">hono</text><text x="291.2" y="310" class="o">reorg handling</text><text x="424.8" y="310" class="o">aws</text>
-    <text x="8.0" y="332" class="o">python</text><text x="108.0" y="332" class="o"></text><text x="191.2" y="332" class="o">nestjs</text><text x="291.2" y="332" class="o">finality rules</text><text x="424.8" y="332" class="o">terraform</text>
-    <text x="8.0" y="354" class="o"></text><text x="108.0" y="354" class="o"></text><text x="191.2" y="354" class="o">postgresql</text><text x="291.2" y="354" class="o"></text><text x="424.8" y="354" class="o">opentofu</text>
-    <text x="8.0" y="376" class="o"></text><text x="108.0" y="376" class="o"></text><text x="191.2" y="376" class="o">redis</text><text x="291.2" y="376" class="o"></text><text x="424.8" y="376" class="o">prometheus</text>
+    <line x1="383.2" y1="226" x2="383.2" y2="384" stroke="#30363d"/>
+    <text x="8.0" y="244" class="d">languages</text><text x="108.0" y="244" class="d">backend</text><text x="208.0" y="244" class="d">frontend</text><text x="291.2" y="244" class="d">ops</text>
+    <text x="8.0" y="266" class="o">typescript</text><text x="108.0" y="266" class="o">node.js</text><text x="208.0" y="266" class="o">react</text><text x="291.2" y="266" class="o">docker</text>
+    <text x="8.0" y="288" class="o">rust</text><text x="108.0" y="288" class="o">elysiajs</text><text x="208.0" y="288" class="o">next.js</text><text x="291.2" y="288" class="o">kubernetes</text>
+    <text x="8.0" y="310" class="o">solidity</text><text x="108.0" y="310" class="o">hono</text><text x="208.0" y="310" class="o"></text><text x="291.2" y="310" class="o">aws</text>
+    <text x="8.0" y="332" class="o">python</text><text x="108.0" y="332" class="o">nestjs</text><text x="208.0" y="332" class="o"></text><text x="291.2" y="332" class="o">terraform</text>
+    <text x="8.0" y="354" class="o"></text><text x="108.0" y="354" class="o">postgresql</text><text x="208.0" y="354" class="o"></text><text x="291.2" y="354" class="o">opentofu</text>
+    <text x="8.0" y="376" class="o"></text><text x="108.0" y="376" class="o">redis</text><text x="208.0" y="376" class="o"></text><text x="291.2" y="376" class="o">prometheus</text>
     <text y="422"><tspan class="p">matthieu@evmd</tspan><tspan class="h">:~$ </tspan><tspan class="c">tail -3 ~/history</tspan></text>
     <text y="446" class="o">→ distributed AWS blockchain ingestion — blocks, transactions, events</text>
     <text y="468" class="o">→ chain-reorg handling: detection, rollback, replay, finality rules</text>
