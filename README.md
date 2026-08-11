@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://matthieuguerra.com">site</a> ·
-  <a href="https://www.linkedin.com/in/matthieu-guerra/">linkedin</a> ·
+  <a href="https://www.linkedin.com/in/matthieuguerra/">linkedin</a> ·
   <a href="mailto:contact@matthieuguerra.com">contact@matthieuguerra.com</a>
 </p>
 
