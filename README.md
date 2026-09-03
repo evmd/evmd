@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  currently hacking → <a href="https://github.com/evmd/docker-firefox-fido2">docker-firefox-fido2</a>
-</p>
-
-<p align="center">
   <a href="https://matthieuguerra.com">site</a> ·
   <a href="https://www.linkedin.com/in/matthieuguerra/">linkedin</a> ·
   <a href="mailto:contact@matthieuguerra.com">contact@matthieuguerra.com</a>
